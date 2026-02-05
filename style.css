@@ -230,14 +230,14 @@ header img {
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
-  gap: 3em;
+  gap: 3.75em;
 }
 
 
 .ascii-side-text {
   text-align: center-left;
   color: var(--WHITE);
-  padding-right: 2em;
+  padding-right: 3em;
 }
 
 
@@ -430,3 +430,4 @@ footer a:hover {
         font-size: 1.5rem;
     }
 }
+
