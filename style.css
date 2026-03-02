@@ -159,8 +159,8 @@ header, section {
 
 .top-banner p {
 	font-weight: bold;
-	padding-top: 3em;
-	padding-bottom: 6em;
+	padding-top: 1em;
+	padding-bottom: 1.5em;
 }
 
 header img {
@@ -430,4 +430,5 @@ footer a:hover {
         font-size: 1.5rem;
     }
 }
+
 
